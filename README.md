@@ -1,3 +1,5 @@
+[English](https://github.com/yadhurany/SeleniumRestAssuredTests/blob/master/README-en.md)
+
 ## Testes de UI e API 
 
 Projeto realizado como Teste para seleção de QA. 
