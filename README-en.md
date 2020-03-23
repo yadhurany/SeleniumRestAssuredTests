@@ -13,7 +13,7 @@ Develop an automated test project for User Interface and Services.
 #### How to execute the project
 ```
 git clone https://github.com/yadhurany/woopsicredi.git
-cd woopsicredi
+cd SeleniumRestAssuredTests
 mvn dependency:resolve
 mvn test
 ```

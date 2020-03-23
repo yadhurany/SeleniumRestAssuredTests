@@ -15,7 +15,7 @@ Desenvolver um projeto de testes automatizados para Interface de Usuário e Serv
 #### Como executar o projeto 
 ```
 git clone https://github.com/yadhurany/SeleniumRestAssuredTests.git
-cd woopsicredi
+cd SeleniumRestAssuredTests
 mvn dependency:resolve
 mvn test
 ```
