@@ -1,9 +1,9 @@
 ## Testes de UI e API | UI and API tests
 
-Projeto realizado como Teste para seleção de QA. / Project developed as a test for a QA position.
+Projeto realizado como Teste para seleção de QA. | Project developed as a test for a QA position.
 
 #### Objetivo | Objective
-Desenvolver um projeto de testes automatizados para Interface de Usuário e Serviços. / Develop an automated test project for User Interface and Services.
+Desenvolver um projeto de testes automatizados para Interface de Usuário e Serviços. | Develop an automated test project for User Interface and Services.
 
 #### Requisitos para rodar o Projeto | Requisites to run the project
 - `java-jdk 12`;
