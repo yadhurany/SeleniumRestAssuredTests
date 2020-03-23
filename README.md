@@ -22,6 +22,6 @@ mvn test
 
 #### Casos de Teste e Mais Informações 
 
-Disponíveis no arquivo:[Tests] (https://github.com/yadhurany/SeleniumRestAssuredTests/blob/master/Casos-de-Teste-e-Infos.pdf)
+Disponíveis no arquivo:[Tests](https://github.com/yadhurany/SeleniumRestAssuredTests/blob/master/Casos-de-Teste-e-Infos.pdf)
 
 
