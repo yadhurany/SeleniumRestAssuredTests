@@ -17,4 +17,5 @@ cd SeleniumRestAssuredTests
 mvn dependency:resolve
 mvn test
 ```
-
+#### UI Test Cases and more info
+Available in: [Tests](https://github.com/yadhurany/SeleniumRestAssuredTests/blob/master/Test-Cases-And-Info.pdf)
