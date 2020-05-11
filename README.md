@@ -5,8 +5,7 @@
 Projeto realizado como Teste para seleção de QA. 
 
 #### Objetivo 
-Desenvolver um projeto de testes automatizados para Interface de Usuário e Serviços. | Develop an automated test project for User Interface and Services.
-
+Desenvolver um projeto de testes automatizados para Interface de Usuário e Serviços.
 #### Requisitos para rodar o Projeto 
 - `java-jdk 12`;
 - `maven 3.6.3`;
